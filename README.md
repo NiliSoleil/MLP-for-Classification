@@ -30,7 +30,9 @@ The project was completed in the following stages:
      
 **How to Run the Code**
   🛠️**Prerequisites:** Make sure you have PyTorch and other necessary libraries installed.
-  🖥️**Run the Notebook:** The code is available in ..... You can run it in Google Colab or any Jupyter environment.
+  🖥️**Run the Notebook:** The code is available here: 
+  https://github.com/NiliSoleil/MLP-for-Classification/blob/main/MLP_for_Binary_Classification.ipynb
+  You can run it in Google Colab or any Jupyter environment.
 
 Niloufar Soleil
  
