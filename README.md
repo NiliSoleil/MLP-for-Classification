@@ -32,5 +32,5 @@ The project was completed in the following stages:
   🛠️**Prerequisites:** Make sure you have PyTorch and other necessary libraries installed.
   🖥️**Run the Notebook:** The code is available in ..... You can run it in Google Colab or any Jupyter environment.
 
-Author: Niloufar Soleil
+Niloufar Soleil
  
